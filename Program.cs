@@ -1,7 +1,7 @@
-﻿bool rainy = true;
+﻿var rainy = true;
 if (rainy)
 {
-    Console.WriteLine("Bonjour, il pleut aujourd’hui, vous devriez prendre votre parapluie");
+    Console.WriteLine("Bonjour, il pleut aujourd’hui, vous devriez prendre votre parapluie.");
 }
 else
 {
